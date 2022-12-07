@@ -1,0 +1,4 @@
+active;name;city;country;system;value
+true;AAAA;Nîmes;France;phone;0644553222
+false;BBB;Lille;France;phone;0644553222
+true;CCC;Paris;France;phone;0644553222
