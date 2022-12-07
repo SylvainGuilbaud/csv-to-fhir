@@ -1,7 +1,7 @@
 .DS_Store
 profile/
 .venv
-iris-main.log
+*.log
 __pycache__
 waitISC.log
 .ipynb_checkpoints
