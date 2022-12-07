@@ -35,4 +35,4 @@ RUN iris start IRIS \
 	&& /usr/irissys/bin/irispython /irisdev/app/src/register.py \
 	&& iris stop IRIS quietly
 
-ENTRYPOINT [ "/tini", "--", "/irisdev/app/entrypoint.sh" ]
+# ENTRYPOINT [ "/tini", "--", "/irisdev/app/entrypoint.sh" ]
